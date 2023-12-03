@@ -38,3 +38,5 @@ for row in f:
     sumTotal = sumTotal + int(sumRow)
   
 print(sumTotal)
+
+f.close()

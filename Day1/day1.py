@@ -21,3 +21,4 @@ for row in f:
   
 print(sumTotal)
 
+f.close()
